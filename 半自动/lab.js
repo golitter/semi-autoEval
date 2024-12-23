@@ -1,3 +1,4 @@
+// https://pastebin.com/ZFiCXiHA
 async function evaluateTeacher() {
     console.log("正在加载页面...");
 
